@@ -14,7 +14,7 @@
 
 This dashboard provides a comprehensive view of Adidas sales data filtered by **Region** and **Invoice Date**. It enables business users to quickly identify top-performing products, retailers, and states, and to monitor key financial KPIs across the Midwest region.
 
-**Data Period:** January 1, 2020 – December 31, 2021  
+**Data Period:** January 1, 2024 – January 20, 2021  
 **Region Filter:** Midwest  
 **Tool Used:** Microsoft Power BI Desktop
 
